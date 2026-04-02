@@ -1,1 +1,1 @@
-Java Foundation 2026
+Java Spring Foundation 2026
